@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aupdate/static/css/main.b2194010.css",
-    "main.js": "/aupdate/static/js/main.74342804.js",
+    "main.css": "/aupdate/static/css/main.40f32681.css",
+    "main.js": "/aupdate/static/js/main.b31a5268.js",
     "static/media/bottom.png": "/aupdate/static/media/bottom.4f60a5c0d4750f127cc0.png",
     "static/media/person.png": "/aupdate/static/media/person.3d299aa5fd37e4f9fe9c.png",
     "static/media/2.png": "/aupdate/static/media/2.dd4b75800c11c968c700.png",
@@ -11,7 +11,7 @@
     "index.html": "/aupdate/index.html"
   },
   "entrypoints": [
-    "static/css/main.b2194010.css",
-    "static/js/main.74342804.js"
+    "static/css/main.40f32681.css",
+    "static/js/main.b31a5268.js"
   ]
 }
